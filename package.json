@@ -1,0 +1,16 @@
+{
+  "name": "javascript-stack-from-scratch",
+  "version": "0.0.1",
+  "description": "javascript-stack-from-scratch",
+  "main": "index.js",
+  "repository": "https://github.com/spences10/javascript-stack-from-scratch.git",
+  "author": "Scott Spence spences10apps@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.24.0"
+  }
+}
