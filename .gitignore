@@ -4,6 +4,9 @@
 # jest coverage
 /coverage/
 
+# rimraf lib
+/lib/
+
 # Logs
 logs
 *.log
