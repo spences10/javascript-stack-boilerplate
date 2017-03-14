@@ -7,6 +7,9 @@
 # rimraf lib
 /lib/
 
+# dist
+/dist/
+
 # Logs
 logs
 *.log
