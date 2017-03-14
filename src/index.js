@@ -1,5 +1,7 @@
-const Dog = require('./dog');
+/* eslint-disable no-console */
 
-const toby = new Dog('Toby');
+const Dog = require('./dog')
 
-console.log(toby.bark());
+const toby = new Dog('Toby')
+
+console.log(toby.bark())

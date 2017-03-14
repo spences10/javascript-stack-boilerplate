@@ -1,6 +1,9 @@
 # c9 meta
 .c9
 
+# jest coverage
+/coverage/
+
 # Logs
 logs
 *.log
