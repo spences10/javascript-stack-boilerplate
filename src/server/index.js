@@ -4,7 +4,7 @@ import compression from 'compression'
 import express from 'express'
 
 import { APP_NAME, STATIC_PATH, WEB_PORT } from '../shared/config'
-import { helloEndpointRoute } from '../client/shared/routes'
+import { helloEndpointRoute } from '../shared/routes'
 import { isProd } from '../shared/util'
 import renderApp from './render-app'
 
