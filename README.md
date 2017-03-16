@@ -1,8 +1,8 @@
 # JavaScript Stack boilerplate
 
-[![Build Status](https://img.shields.io/travis/spences10/javascript-stack-from-scratch.svg?style=flat-square)](https://travis-ci.org/spences10/javascript-stack-from-scratch)
-[![Coverage Status](https://img.shields.io/coveralls/spences10/javascript-stack-from-scratch.svg?style=flat-square)](https://coveralls.io/github/spences10/javascript-stack-from-scratch?branch=master)
-[![Dependencies](https://img.shields.io/david/spences10/javascript-stack-from-scratch.svg?style=flat-square)](https://david-dm.org/spences10/javascript-stack-from-scratch.svg)
+[![Build Status](https://img.shields.io/travis/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://travis-ci.org/spences10/javascript-stack-boilerplate)
+[![Coverage Status](https://img.shields.io/coveralls/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://coveralls.io/github/spences10/javascript-stack-boilerplate?branch=master)
+[![Dependencies](https://img.shields.io/david/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/spences10/javascript-stack-boilerplate.svg)
 
 [![React](/img/react-padded-90.png)](https://facebook.github.io/react/)
 [![Redux](/img/redux-padded-90.png)](http://redux.js.org/)
