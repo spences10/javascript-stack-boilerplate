@@ -22,5 +22,10 @@ JavaScript stack boilerplate made from following along with [@verekia](https://g
 
 Do it!
 
+This is in two branches:
 
+  master
+  master-no-services
+
+The master-no-services branch does not include deployment to Heroku
 
