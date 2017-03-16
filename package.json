@@ -1,9 +1,9 @@
 {
-  "name": "javascript-stack-from-scratch",
+  "name": "javascript-stack-boilerplate",
   "version": "0.0.1",
-  "description": "javascript-stack-from-scratch",
+  "description": "javascript-stack-boilerplate",
   "main": "index.js",
-  "repository": "https://github.com/spences10/javascript-stack-from-scratch.git",
+  "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
   "author": "Scott Spence spences10apps@gmail.com",
   "license": "MIT",
   "scripts": {
