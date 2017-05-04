@@ -1,5 +1,7 @@
 # JavaScript Stack boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/javascript-stack-boilerplate.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://img.shields.io/travis/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://travis-ci.org/spences10/javascript-stack-boilerplate)
 [![Coverage Status](https://img.shields.io/coveralls/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://coveralls.io/github/spences10/javascript-stack-boilerplate?branch=master)
 [![Dependencies](https://img.shields.io/david/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/spences10/javascript-stack-boilerplate.svg)
