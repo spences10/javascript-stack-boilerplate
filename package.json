@@ -42,7 +42,7 @@
     "redux-actions": "^2.0.1",
     "redux-thunk": "^2.2.0",
     "socket.io": "^1.7.3",
-    "socket.io-client": "^1.7.3",
+    "socket.io-client": "^1.7.4",
     "tether": "^1.4.0"
   },
   "devDependencies": {
