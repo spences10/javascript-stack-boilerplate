@@ -65,7 +65,7 @@
     "fetch-mock": "^5.11.0",
     "flow-bin": "^0.46.0",
     "husky": "^0.13.2",
-    "jest": "^20.0.3",
+    "jest": "^20.0.4",
     "nodemon": "^1.11.0",
     "redux-mock-store": "^1.2.2",
     "rimraf": "^2.6.1",
