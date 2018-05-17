@@ -7,7 +7,7 @@
   "author": "Scott Spence spences10apps@gmail.com",
   "license": "MIT",
   "engines": {
-    "node": "7.x",
+    "node": "10",
     "yarn": "0.20.3"
   },
   "scripts": {
