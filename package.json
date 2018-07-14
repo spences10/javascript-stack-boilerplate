@@ -8,7 +8,7 @@
   "license": "MIT",
   "engines": {
     "node": "10",
-    "yarn": "0.20.3"
+    "yarn": "1.7.0"
   },
   "scripts": {
     "start": "yarn dev:start",
