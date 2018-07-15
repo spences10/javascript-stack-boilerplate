@@ -7,20 +7,19 @@
   "author": "Scott Spence spences10apps@gmail.com",
   "license": "MIT",
   "engines": {
-    "node": "10",
-    "yarn": "0.20.3"
+    "node": "10"
   },
   "scripts": {
-    "start": "yarn dev:start",
+    "start": "npm dev:start",
     "dev:start": "nodemon -e js,jsx --ignore lib --ignore dist --exec babel-node src/server",
     "dev:wds": "webpack-dev-server --progress",
     "prod:build": "rimraf lib dist && babel src -d lib --ignore .test.js && cross-env NODE_ENV=production webpack -p --progress",
     "prod:start": "heroku local",
-    "heroku-postbuild": "yarn prod:build",
+    "heroku-postbuild": "npm prod:build",
     "lint": "eslint src webpack.config.babel.js --ext .js,.jsx",
-    "test": "yarn lint && flow && jest --coverage",
-    "precommit": "yarn test",
-    "prepush": "yarn test && yarn prod:build"
+    "test": "npm lint && flow && jest --coverage",
+    "precommit": "npm test",
+    "prepush": "npm test && npm prod:build"
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
