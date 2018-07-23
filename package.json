@@ -55,20 +55,20 @@
     "babel-preset-react": "6.24.1",
     "coveralls": "3.0.2",
     "cross-env": "5.2.0",
-    "eslint": "5.1.0",
+    "eslint": "5.2.0",
     "eslint-plugin-flowtype": "2.50.0",
     "eslint-config-airbnb": "17.0.0",
     "eslint-plugin-import": "2.13.0",
     "eslint-plugin-jsx-a11y": "6.1.1",
     "eslint-plugin-react": "7.10.0",
-    "fetch-mock": "6.5.0",
-    "flow-bin": "0.76.0",
+    "fetch-mock": "6.5.2",
+    "flow-bin": "0.77.0",
     "husky": "0.14.3",
     "jest": "23.4.1",
-    "nodemon": "1.18.2",
+    "nodemon": "1.18.3",
     "redux-mock-store": "1.5.3",
     "rimraf": "2.6.2",
     "webpack": "4.16.2",
-    "webpack-dev-server": "3.1.4"
+    "webpack-dev-server": "3.1.5"
   }
 }

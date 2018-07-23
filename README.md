@@ -1,10 +1,9 @@
 # JavaScript Stack boilerplate
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/javascript-stack-boilerplate.svg)](https://greenkeeper.io/)
-
 [![Build Status](https://img.shields.io/travis/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://travis-ci.org/spences10/javascript-stack-boilerplate)
 [![Coverage Status](https://img.shields.io/coveralls/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://coveralls.io/github/spences10/javascript-stack-boilerplate?branch=master)
 [![Dependencies](https://img.shields.io/david/spences10/javascript-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/spences10/javascript-stack-boilerplate.svg)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 [![React](/img/react-padded-90.png)](https://facebook.github.io/react/)
 [![Redux](/img/redux-padded-90.png)](http://redux.js.org/)
