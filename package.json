@@ -69,6 +69,6 @@
     "redux-mock-store": "1.5.3",
     "rimraf": "2.6.2",
     "webpack": "4.22.0",
-    "webpack-dev-server": "3.1.9"
+    "webpack-dev-server": "3.1.10"
   }
 }
