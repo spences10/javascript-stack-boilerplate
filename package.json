@@ -65,7 +65,7 @@
     "flow-bin": "0.83.0",
     "husky": "1.1.2",
     "jest": "23.6.0",
-    "nodemon": "1.18.4",
+    "nodemon": "1.18.5",
     "redux-mock-store": "1.5.3",
     "rimraf": "2.6.2",
     "webpack": "4.23.0",
