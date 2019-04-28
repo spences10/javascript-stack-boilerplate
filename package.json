@@ -62,7 +62,7 @@
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-react": "7.12.4",
     "fetch-mock": "7.3.3",
-    "flow-bin": "0.97.0",
+    "flow-bin": "0.98.0",
     "husky": "2.1.0",
     "jest": "24.7.1",
     "nodemon": "1.18.11",
