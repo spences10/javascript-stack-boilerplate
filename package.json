@@ -9,12 +9,14 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --open --watch --config webpack.config.prod.js",
+    "dev:hot": "yarn run dev -- --hot",
     "build": "webpack --config webpack.config.prod.js"
   },
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.10.2",
-    "react-dom": "16.10.2"
+    "react-dom": "16.10.2",
+    "react-hot-loader": "4.12.14"
   },
   "devDependencies": {
     "@babel/cli": "7.6.2",
