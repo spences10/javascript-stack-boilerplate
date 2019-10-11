@@ -2,7 +2,7 @@ import '@babel/polyfill'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
-import App from './app'
+import { App } from './app'
 
 const render = App => {
   ReactDOM.render(
