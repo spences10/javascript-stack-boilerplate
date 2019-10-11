@@ -7,7 +7,7 @@ module.exports = merge(baseConfig, {
   plugins: [
     new BundleAnalyzerPlugin({
       analyzerMode: 'static',
-      openAnalyzer: true,
+      openAnalyzer: false,
       reportFilename: 'bundle_size.html',
     }),
   ],
