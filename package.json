@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -34,7 +34,7 @@
     "@babel/plugin-syntax-dynamic-import": "7.2.0",
     "@babel/preset-env": "7.6.3",
     "@babel/preset-react": "7.6.3",
-    "@testing-library/jest-dom": "4.2.2",
+    "@testing-library/jest-dom": "4.2.3",
     "@testing-library/react": "9.3.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.0.3",
