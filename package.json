@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@babel/cli": "7.7.0",
-    "@babel/core": "7.7.0",
+    "@babel/core": "7.7.2",
     "@babel/plugin-proposal-class-properties": "7.7.0",
     "@babel/plugin-syntax-dynamic-import": "7.2.0",
     "@babel/preset-env": "7.7.1",
