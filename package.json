@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -55,7 +55,7 @@
     "webpack": "4.41.3",
     "webpack-bundle-analyzer": "3.6.0",
     "webpack-cli": "3.3.10",
-    "webpack-dev-server": "3.9.0",
+    "webpack-dev-server": "3.10.0",
     "webpack-merge": "4.2.2"
   }
 }
