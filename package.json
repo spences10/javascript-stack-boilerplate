@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.43",
+  "version": "0.1.44",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -46,7 +46,7 @@
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.18.0",
     "html-webpack-plugin": "3.2.0",
-    "husky": "4.0.10",
+    "husky": "4.2.0",
     "jest": "24.9.0",
     "prettier": "1.19.1",
     "pretty-quick": "1.11.1",
