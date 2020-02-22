@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -50,7 +50,7 @@
     "jest": "25.1.0",
     "prettier": "1.19.1",
     "pretty-quick": "1.11.1",
-    "react-axe": "3.3.0",
+    "react-axe": "3.4.1",
     "style-loader": "1.1.3",
     "webpack": "4.41.5",
     "webpack-bundle-analyzer": "3.6.0",
