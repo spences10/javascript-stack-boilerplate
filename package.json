@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -23,8 +23,8 @@
   "dependencies": {
     "@babel/polyfill": "7.8.3",
     "prop-types": "15.7.2",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
     "react-hot-loader": "4.12.19"
   },
   "devDependencies": {
