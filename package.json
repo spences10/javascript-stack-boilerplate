@@ -1,6 +1,6 @@
 {
   "name": "javascript-stack-boilerplate",
-  "version": "0.1.53",
+  "version": "0.1.54",
   "description": "javascript-stack-boilerplate",
   "main": "index.js",
   "repository": "https://github.com/spences10/javascript-stack-boilerplate.git",
@@ -21,7 +21,7 @@
     }
   },
   "dependencies": {
-    "@babel/polyfill": "7.8.3",
+    "@babel/polyfill": "7.8.7",
     "prop-types": "15.7.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
@@ -29,10 +29,10 @@
   },
   "devDependencies": {
     "@babel/cli": "7.8.4",
-    "@babel/core": "7.8.6",
+    "@babel/core": "7.8.7",
     "@babel/plugin-proposal-class-properties": "7.8.3",
     "@babel/plugin-syntax-dynamic-import": "7.8.3",
-    "@babel/preset-env": "7.8.6",
+    "@babel/preset-env": "7.8.7",
     "@babel/preset-react": "7.8.3",
     "@testing-library/jest-dom": "5.1.1",
     "@testing-library/react": "9.4.1",
